@@ -49,6 +49,4 @@ The project will continue to receive improvements, additional mathematical tools
 **Axiom — Advanced Mathematics**
 
 
-<img width="388" height="671" alt="Screenshot 2026-09-14 010147" src="https://github.com/user-attachments/assets/b99713c7-bc37-4f78-84bf-3e0729feaede" />
-
 <img width="242" height="472" alt="Screenshot 2026-09-14 021822" src="https://github.com/user-attachments/assets/2f806ee6-f73d-4e96-97ab-a3e20d8d2600" />

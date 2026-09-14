@@ -1,4 +1,4 @@
-<img width="352" height="672" alt="Screenshot 2026-09-13 185342" src="https://github.com/user-attachments/assets/8664fed8-773b-4757-92ef-aa99d533364e" />
+
 # Axiom
 
 **Axiom Advanced Mathematics** is a Flutter-based advanced mathematics calculator and graphing toolkit designed for fast, local-first mathematical exploration.
